@@ -87,7 +87,7 @@ python app.py
 
 ## 📁 Folder Structure
 ```bash
-├── app.py                           # Flask backend
+├── flask_app.py                           # Flask backend
 ├── knn_model.pkl                    # Saved KNN model
 ├── templates/
 │   └── index.html                   # Frontend HTML form
